@@ -1,6 +1,15 @@
 {
     "version": 2,
     "settings": {
+        "custom": {
+            "colors": {
+                "black": "#000",
+                "red": "#cd2653",
+                "beige": "#dcd7ca",
+                "light-beige": "#f5efe0",
+                "grey": "#6d6d6d"
+            }
+        },
         "layout": {
             "contentSize": "610px",
             "wideSize": "1200px"
