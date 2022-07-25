@@ -1,6 +1,35 @@
 {
     "version": 2,
     "settings": {
+        "color": {
+          "palette": [
+            {
+                "name": "Accent Color",
+                "slug": "accent",
+                "color": "var(--wp--custom--colors--red)"
+            },
+            {
+                "name": "Primary Color",
+                "slug": "primary",
+                "color": "var(--wp--custom--colors--black)"
+            },
+            {
+                "name": "Secondary Color",
+                "slug": "secondary",
+                "color": "var(--wp--custom--colors--grey)"
+            },
+            {
+                "name": "Subtle Background",
+                "slug": "subtle-background",
+                "color": "var(--wp--custom--colors--subtle--beige)"
+            },
+            {
+                "name": "Background",
+                "slug": "background",
+                "color": "var(--wp--custom--colors--light-beige)"
+            }        
+          ]  
+        },
         "custom": {
             "colors": {
                 "black": "#000",
