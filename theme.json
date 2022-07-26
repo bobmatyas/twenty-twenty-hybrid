@@ -42,6 +42,30 @@
         "layout": {
             "contentSize": "610px",
             "wideSize": "1200px"
-        }
+        },
+        "typography": {
+            "fontSizes": [
+                {
+                    "slug": "small",
+                    "name": "Small",
+                    "size": "18px"
+                },
+                {
+                    "slug": "normal",
+                    "name": "Normal",
+                    "size": "21px"
+                },
+                {
+                    "slug": "large",
+                    "name": "Large",
+                    "size": "26.25px"
+                },                
+                {
+                    "slug": "largest",
+                    "name": "Largest",
+                    "size": "32px"
+                }
+            ]
+    }
     }
 }
